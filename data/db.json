@@ -12,7 +12,17 @@
     },
     {
       "id": 2,
-      "title": "top 5 CSS tips",
+      "title": "top 5 CSS tipss",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque iure optio, consequatur cupiditate aperiam iste voluptatum incidunt, ducimus maxime veniam voluptates tempora nulla, dolor doloribus similique laborum velit fuga error",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    }, 
+    {
+      "id": 3,
+      "title": "WFH developer",
       "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque iure optio, consequatur cupiditate aperiam iste voluptatum incidunt, ducimus maxime veniam voluptates tempora nulla, dolor doloribus similique laborum velit fuga error",
       "tags": [
         "css",
